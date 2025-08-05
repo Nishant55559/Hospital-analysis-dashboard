@@ -92,7 +92,10 @@ The **HealthLens Dashboard** provides a centralized, data-driven view into hospi
 ---
 
 ## 🖼️ Screenshots
-![Dashboard Preview](snapshot of dashboard-preview.png)
+
+
+![Hospital Dashboard Preview](https://github.com/Nishant55559/Hospital-analysis-dashboard/blob/main/snapshot%20of%20dashboard.png?raw=true)
+
 
 
 

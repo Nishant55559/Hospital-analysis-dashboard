@@ -92,6 +92,6 @@ The **HealthLens Dashboard** provides a centralized, data-driven view into hospi
 ---
 
 ## 🖼️ Screenshots
-
+`snapshot of dashboard.png`
 
 
